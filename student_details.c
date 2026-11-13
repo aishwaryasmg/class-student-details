@@ -85,7 +85,7 @@ void student_ADYA_DINESH_GOWDA() {
 }
 
 void student_AISHWARYA_R() {
-    printf("AISHWARYA R is absent\n");
+    printf("AISHWARYA R is present\n");
 }
 
 void student_AISHWARYA_S_H() {
