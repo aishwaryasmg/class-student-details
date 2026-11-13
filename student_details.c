@@ -293,7 +293,6 @@ void student_PREETHAM_P() {
 
 int main() {
     printf("========== CLASS STUDENT DETAILS ==========\n\n");
-    printf("When the sky turns BLACK, even GOD will look away\n\n");
     student_CHETAN_C();
     student_CHINMAY_V();
     student_HARSHITHA_T_N();
