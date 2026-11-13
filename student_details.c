@@ -69,7 +69,8 @@ void student_ADITHI_S_SHET() {
 }
 
 void student_ADITHYA_S() {
-    printf("ADITHYA S is absent\n");
+    printf("ADITHYA S is present\n");
+    printf("4JN25CS005");
 }
 
 void student_ADITI_D_U() {
@@ -125,8 +126,9 @@ void student_ANNAPURNA_S() {
 }
 
 void student_ANUSH_G_S() {
-    printf("ANUSH G S is absent\n");
-}
+    printf("ANUSH G S is present\n");
+    printf("4JN25CS018\n");}
+    printf("Holla amigo\n");
 
 void student_ANUSHA_RAMAPPA_LA() {
     printf("ANUSHA RAMAPPA LA is absent\n");
@@ -165,7 +167,8 @@ void student_B_M_S_PRAJWAL() {
 }
 
 void student_B_M_THANUSH_SHETTY() {
-    printf("B M THANUSH SHETTY is absent\n");
+    printf("B M THANUSH SHETTY is present\n");
+    printf("4JN25CS028\n");
 }
 
 void student_BHAGYASHREE() {
@@ -213,7 +216,8 @@ void student_BRUNDA_G() {
 }
 
 void student_CHAITANYA_R_B() {
-    printf("CHAITANYA R B is absent\n");
+    printf("CHAITANYA_R_B is present");
+    printf("4JN25CS040");
 }
 
 void student_CHANDAN_C() {
@@ -249,7 +253,8 @@ void student_CHETAN() {
 }
 
 void student_CHETHAN_KUMAR_S_G() {
-    printf("CHETHAN KUMAR S G is absent\n");
+    printf("CHETHAN KUMAR S G is present\n");
+    printf("4JN25CS050");
 }
 
 void student_CHINMAI_H_A() {
@@ -269,11 +274,13 @@ void student_CHINMAYI_N() {
 }
 
 void student_CHIRAG_P() {
-    printf("CHIRAG P is absent\n");
+    printf("CHIRAG P is present\n");
+    printf("4JN25CS055");
 }
 
 void student_DARSHAN_L_S() {
-    printf("DARSHAN L S is absent\n");
+    printf("DARSHAN L S is present\n");
+    prinft("4JN25CS056");
 }
 
 void student_DASHAMI_D_M() {
@@ -286,7 +293,7 @@ void student_PREETHAM_P() {
 
 int main() {
     printf("========== CLASS STUDENT DETAILS ==========\n\n");
-
+    printf("When the sky turns BLACK, even GOD will look away\n\n");
     student_CHETAN_C();
     student_CHINMAY_V();
     student_HARSHITHA_T_N();
